@@ -1,0 +1,7 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^api/?$ api.php?path= [QSA,L]
+RewriteRule ^api/(.+)$ api.php?path=$1 [QSA,L]
+<FilesMatch "^(schema|README|LICENSES).*\.(sql|md)$">
+  Require all denied
+</FilesMatch>
