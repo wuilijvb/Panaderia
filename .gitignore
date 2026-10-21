@@ -1,0 +1,15 @@
+# Datos locales y sesiones: nunca versionar credenciales ni ventas del equipo
+/data/*.sqlite
+/data/*.sqlite3
+/data/sessions/
+
+# Archivos locales o generados
+/.env
+/.env.*
+!/.env.example
+*.log
+/vendor/
+/node_modules/
+/.phpunit.cache/
+/.DS_Store
+Thumbs.db
