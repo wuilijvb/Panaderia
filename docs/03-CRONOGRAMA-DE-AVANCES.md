@@ -1,5 +1,10 @@
 # Cronograma de avances y commits
 
+> Antecedente conservado. Revisión 28/10/2026: la planeación proporcionada por el
+> equipo establece entrega el **06/11/2026**, que sustituye la fecha de 16/11
+> propuesta abajo. Los hitos vigentes y el estado real se detallan en
+> `04-ENTREGA-SEGUN-PLANEACION.md`. Las metas originales no acreditan trabajo realizado.
+
 **Proyecto:** Miga · Punto de venta para panadería  
 **Fecha límite indicada:** 16 de noviembre de 2026
 

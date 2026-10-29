@@ -1,5 +1,15 @@
 # Miga · Punto de venta para panadería
 
+## Entrega académica y documentación
+
+La planeación del Equipo 02 fija la entrega final para el **6 de noviembre de 2026**.
+Consulta [entregables y documentación breve](docs/04-ENTREGA-SEGUN-PLANEACION.md),
+[API real](docs/api.md), [base de datos y arquitectura](docs/database.md) y
+[verificaciones del avance](docs/05-VERIFICACION-DEL-AVANCE.md).
+Este repositorio contiene un avance: producción diaria, cierre con merma y su
+reporte siguen pendientes respecto de la planeación. La tecnología real es PHP
+y SQLite; la propuesta original de Node/React/MySQL debe actualizarse por el equipo.
+
 Sistema local en español construido conservando la plantilla **Ember Table** del directorio `template/`. Incluye interfaz de caja, API JSON en PHP y base de datos SQLite persistente. No requiere instalar paquetes externos ni conexión a internet.
 
 ## Iniciar en XAMPP
